@@ -31,7 +31,7 @@ Analyse SQL des revenus nets par produit, mois et entrepôt sur des commandes "W
 
 ### 🥑 Avocado Toast – Supply Chain Analysis
 Étude des origines des ingrédients à partir de la base Open Food Facts (avocat, huile d’olive, pain).  
-📌 [Voir le projet](./Projet_DataCamp/avocado-toast-supply-chain/README.md)
+📌 [Voir le projet](./Projet_DataCamp/avocado-toast-supply-chain-analysis/README.md)
 
 ### 📦 Logistics Challenge – Power BI
 Dashboard logistique interactif : KPIs de livraison, taux d’intime, filtres par pays/produit.  
