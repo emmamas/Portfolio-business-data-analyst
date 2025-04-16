@@ -64,7 +64,7 @@ Le tableau obtenu permet aux dirigeants de :
 
 ## 📄 Fichier associé
 
-📌 [Voir le notebook](./notebook.ipynb)
+📌 [Voir le notebook](./Motorcycle.ipynb)
 
 ---
 
