@@ -40,7 +40,7 @@ Cela permet de comprendre l’**impact logistique et géographique** même d’u
 
 ## 💻 Notebook
 
-📎 [👉 Voir le code complet dans le notebook](./avocado-toast-analysis.ipynb)
+📎 [👉 Voir le notebook](./avocado-toast-analysis.ipynb)
 
 ---
 
