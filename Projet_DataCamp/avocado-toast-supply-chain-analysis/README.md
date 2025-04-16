@@ -1,6 +1,5 @@
 # 🥑 What's in an Avocado Toast: A Supply Chain Analysis
-
-![Avocado Toast](avocado_wallpaper.jpeg)
+![avocado_wallpaper](https://github.com/user-attachments/assets/5c2dbe7d-3bc0-4140-b2a7-57c59f004082)
 
 ## 📌 Objectif du projet
 
