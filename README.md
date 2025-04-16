@@ -41,10 +41,6 @@ Dashboard logistique interactif : KPIs de livraison, taux d’intime, filtres pa
 Suivi des stocks et alertes sur produits en seuil critique, par entrepôt et produit.  
 📌 [Voir le projet](./Projets-PowerBI/Stock/README.md)
 
-### 💧 Pollution de l'eau potable – Projet Data4Good
-Projet collaboratif en open data sur l’état de la pollution en France (Python, DBT, VS Code).  
-📌 [Voir le projet](./Projet_Data4Good/Pollution_Eau_Potable/README.md)
-
 ---
 
 ## 🧠 Expériences & Collaborations
