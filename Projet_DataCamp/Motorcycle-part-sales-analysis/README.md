@@ -76,4 +76,4 @@ Le tableau obtenu permet aux dirigeants de :
 
 ---
 
-*Projet réalisé dans le cadre d’un portfolio Data Analyst.*
+*Projet réalisé dans le cadre de ma formation Data Analyst avec DataCamp.*
