@@ -25,13 +25,13 @@ Actuellement en recherche d’un **contrat d’apprentissage de 24 mois** à par
 
 ## 📁 Projets en vedette
 
-### 🏍️ Motorcycle Parts – Wholesale Revenue Analysis
-Analyse SQL des revenus nets par produit, mois et entrepôt sur des commandes "Wholesale".  
-📌 [Voir le projet](./Projet_DataCamp/Motorcycle-part-sales-analysis/README.md)
-
 ### 🥑 Avocado Toast – Supply Chain Analysis
 Étude des origines des ingrédients à partir de la base Open Food Facts (avocat, huile d’olive, pain).  
 📌 [Voir le projet](./Projet_DataCamp/avocado-toast-supply-chain-analysis/README.md)
+
+### 🏍️ Motorcycle Parts – Wholesale Revenue Analysis
+Analyse SQL des revenus nets par produit, mois et entrepôt sur des commandes "Wholesale".  
+📌 [Voir le projet](./Projet_DataCamp/Motorcycle-part-sales-analysis/README.md)
 
 ### 📦 Logistics Challenge – Power BI
 Dashboard logistique interactif : KPIs de livraison, taux d’intime, filtres par pays/produit.  
