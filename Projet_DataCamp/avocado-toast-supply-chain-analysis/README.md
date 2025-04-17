@@ -38,12 +38,6 @@ Cela permet de comprendre l’**impact logistique et géographique** même d’u
 
 ---
 
-## 💻 Notebook
-
-[📌  Voir le notebook](./avocado-toast-analysis.ipynb)
-
----
-
 ## ✨ Ce projet montre...
 
 🎯 Ma capacité à structurer une analyse de données de A à Z,  
