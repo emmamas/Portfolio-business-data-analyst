@@ -49,6 +49,8 @@ Suivi des stocks et alertes sur produits en seuil critique, par entrepôt et pro
 - **Consultante Performance Achat** chez Alten (Air Liquide) : analyse ERP, benchmark et certification ISO
 - **Projets mensuels FP20 Analytics** : dashboards interactifs avec retour de professionnels
 
+CV: [EmmaMassie_CV_BusinessDataAnalyst_Apprentissage_2025.pdf](https://github.com/user-attachments/files/19789877/EmmaMassie_CV_BusinessDataAnalyst_Apprentissage_2025.pdf)
+
 ---
 
 ## 📬 Me contacter
