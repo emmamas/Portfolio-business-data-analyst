@@ -62,12 +62,6 @@ Le tableau obtenu permet aux dirigeants de :
 
 ---
 
-## 📄 Fichier associé
-
-📌 [Voir le notebook](./Motorcycle.ipynb)
-
----
-
 ## 🚀 Ce projet démontre :
 
 ✅ Une maîtrise des requêtes SQL complexes  
