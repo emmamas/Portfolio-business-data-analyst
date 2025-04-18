@@ -37,7 +37,7 @@ Dashboard logistique interactif : KPIs de livraison, taux d’intime, filtres pa
 Analyse SQL des revenus nets par produit, mois et entrepôt sur des commandes "Wholesale".  
 📌 [Voir le projet](./Projet_DataCamp/Motorcycle-part-sales-analysis/README.md)
 
-### 📊 Stock Monitoring – Power BI
+### 📊 Stock Monitoring – Power BI (En cours)
 Suivi des stocks et alertes sur produits en seuil critique, par entrepôt et produit.  
 📌 [Voir le projet](./Projets-PowerBI/Stock/README.md)
 
